@@ -1,6 +1,6 @@
 Créditos: João Pedro Esteves da Silva e Elieser de França Costa
 
-# Taxa-de-Suicidios
+# Taxa-de-Suicídios
 Taxa de suicídios de brasileiros.
 
 A origem da base de dados da pesquisa da taxa de suicidios foi retirada do kaggle, https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016.
