@@ -1,4 +1,4 @@
-Credits: João Pedro Esteves da Silva e Elieser de França Costa
+Créditos: João Pedro Esteves da Silva e Elieser de França Costa
 
 # Taxa-de-Suicidios
 Taxa de suicídios de brasileiros.
